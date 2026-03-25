@@ -9,6 +9,13 @@ Paste the **exact** output of `python3 preview.py` (the table) below. Use only t
 ```
 [PASTE PREVIEW TABLE HERE]
 ```
+<!--
+Advanced usage:
+
+Instead of pasting manually, you can pipe the preview output
+into your agent runtime. The important constraint is that the
+model must only see the preview table, not the full input.json.
+-->
 
 ## Task
 
