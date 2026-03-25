@@ -1,0 +1,5 @@
+[
+  {"id": "E-001", "reason": "Leadership sign-off deadline Friday"},
+  {"id": "E-003", "reason": "Main branch CI failed — deploy blocked"},
+  {"id": "E-006", "reason": "Colleague asked for PR review before EOD"}
+]

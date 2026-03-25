@@ -37,6 +37,7 @@ This is a set of patterns for thinking about AI-assisted work.
 
 - [Staged execution walkthrough](examples/staged-execution-walkthrough.md)
 - [Sample project instructions for agents](examples/sample-agents-md.md)
+- [Triage pipeline — runnable example](examples/triage-pipeline/)
 
 ---
 

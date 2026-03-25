@@ -1,0 +1,50 @@
+[
+  {
+    "id": "E-001",
+    "subject": "Re: Q2 roadmap — need your sign-off by Friday 5pm",
+    "from": "alex.chen@acme.example",
+    "received": "2026-03-24T09:15:00Z",
+    "snippet": "Can you confirm the API scope section before we send to leadership?",
+    "labels": ["work", "deadline"]
+  },
+  {
+    "id": "E-002",
+    "subject": "Weekly Digest: Product news you might have missed",
+    "from": "newsletter@vendor.example",
+    "received": "2026-03-24T08:00:00Z",
+    "snippet": "Top stories this week: new features, webinars, and partner updates.",
+    "labels": ["newsletter", "marketing"]
+  },
+  {
+    "id": "E-003",
+    "subject": "[CI] main branch failed — deploy:prod",
+    "from": "ci@buildbot.internal",
+    "received": "2026-03-24T07:42:00Z",
+    "snippet": "Step integration-tests exited with code 1. See logs for job 88421.",
+    "labels": ["ci", "alert"]
+  },
+  {
+    "id": "E-004",
+    "subject": "Reminder: Team offsite — calendar hold",
+    "from": "calendar-notification@google.example",
+    "received": "2026-03-23T18:30:00Z",
+    "snippet": "This is an automated reminder for an event you created.",
+    "labels": ["calendar", "auto"]
+  },
+  {
+    "id": "E-005",
+    "subject": "Flash sale: 40% off — ends tonight",
+    "from": "deals@retail.example",
+    "received": "2026-03-23T12:00:00Z",
+    "snippet": "Shop now and save on selected items. Unsubscribe link below.",
+    "labels": ["promo", "marketing"]
+  },
+  {
+    "id": "E-006",
+    "subject": "Quick review of PR #4412 before EOD?",
+    "from": "jordan@acme.example",
+    "received": "2026-03-24T10:05:00Z",
+    "snippet": "Small auth fix for the session timeout bug — should be a fast read.",
+    "labels": ["work", "pr"]
+  }
+]
